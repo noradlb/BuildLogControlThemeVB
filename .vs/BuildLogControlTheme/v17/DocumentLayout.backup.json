@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MONSTERMC\\source\\repos\\BuildLogControlTheme\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{455E5AAF-1D2D-48D4-B4BB-9417ED732B1C}|BuildLogControlTheme\\BuildLogControlTheme.vbproj|c:\\users\\monstermc\\source\\repos\\buildlogcontroltheme\\buildlogcontroltheme\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{455E5AAF-1D2D-48D4-B4BB-9417ED732B1C}|BuildLogControlTheme\\BuildLogControlTheme.vbproj|solutionrelative:buildlogcontroltheme\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455E5AAF-1D2D-48D4-B4BB-9417ED732B1C}|BuildLogControlTheme\\BuildLogControlTheme.vbproj|c:\\users\\monstermc\\source\\repos\\buildlogcontroltheme\\buildlogcontroltheme\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{455E5AAF-1D2D-48D4-B4BB-9417ED732B1C}|BuildLogControlTheme\\BuildLogControlTheme.vbproj|solutionrelative:buildlogcontroltheme\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{455E5AAF-1D2D-48D4-B4BB-9417ED732B1C}|BuildLogControlTheme\\BuildLogControlTheme.vbproj|c:\\users\\monstermc\\source\\repos\\buildlogcontroltheme\\buildlogcontroltheme\\buildlogcontrol.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{455E5AAF-1D2D-48D4-B4BB-9417ED732B1C}|BuildLogControlTheme\\BuildLogControlTheme.vbproj|solutionrelative:buildlogcontroltheme\\buildlogcontrol.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\MONSTERMC\\source\\repos\\BuildLogControlTheme\\BuildLogControlTheme\\Form1.vb",
+              "RelativeDocumentMoniker": "BuildLogControlTheme\\Form1.vb",
+              "ToolTip": "C:\\Users\\MONSTERMC\\source\\repos\\BuildLogControlTheme\\BuildLogControlTheme\\Form1.vb",
+              "RelativeToolTip": "BuildLogControlTheme\\Form1.vb",
+              "ViewState": "AgIAADsAAAAAAAAAAAAawEcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-06-27T07:21:57.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BuildLogControl.vb",
+              "DocumentMoniker": "C:\\Users\\MONSTERMC\\source\\repos\\BuildLogControlTheme\\BuildLogControlTheme\\BuildLogControl.vb",
+              "RelativeDocumentMoniker": "BuildLogControlTheme\\BuildLogControl.vb",
+              "ToolTip": "C:\\Users\\MONSTERMC\\source\\repos\\BuildLogControlTheme\\BuildLogControlTheme\\BuildLogControl.vb",
+              "RelativeToolTip": "BuildLogControlTheme\\BuildLogControl.vb",
+              "ViewState": "AgIAAGUFAAAAAAAAAAAqwIMFAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-06-27T07:21:48.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\MONSTERMC\\source\\repos\\BuildLogControlTheme\\BuildLogControlTheme\\Form1.vb",
+              "RelativeDocumentMoniker": "BuildLogControlTheme\\Form1.vb",
+              "ToolTip": "C:\\Users\\MONSTERMC\\source\\repos\\BuildLogControlTheme\\BuildLogControlTheme\\Form1.vb [Design]",
+              "RelativeToolTip": "BuildLogControlTheme\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-06-27T07:21:25.521Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
